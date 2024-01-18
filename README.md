@@ -19,3 +19,6 @@
 [1]Mirza M, Osindero S. Conditional Generative Adversarial Nets[J]. arXiv, 2014. http://arxiv.org/abs/1411.1784.
 ### 修改后的文献（使用谷歌学术搜索生成的引用）
 [1]Mirza M, Osindero S. Conditional generative adversarial nets[J]. arXiv preprint arXiv:1411.1784, 2014.
+
+# Latex模板
+GitHub上面发现的[Latex模板](https://github.com/gis-xh/Yangtzeu_Template)不过感觉很不成熟
